@@ -8,6 +8,11 @@ Attarzad@usc.edu
 
 Hack On!
 
+Education: 
+USC Viterbi School of Engineering, '19
+Computer Science & Physics, B.S.
+Minor: Applied Computer Security
+
 <!--
 **Truative-USC/Truative-USC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
