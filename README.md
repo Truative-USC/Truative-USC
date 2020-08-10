@@ -1,4 +1,4 @@
-### Howdy 🎩, 
+### Howdy 🎩 
 
 My name is Aaron and I am a Sales Engineer at Signal Sciences!
 
