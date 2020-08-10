@@ -1,17 +1,13 @@
 ### Howdy 🎩 
 
-My name is Aaron and I am a Sales Engineer at Signal Sciences!
+My name is Aaron and I am a Sales Engineer at Signal Sciences! I graduated from The University of Southern California, majoring in Computer Science and Physics whilst pursuing a minor in Applied Computer Security.  <br />
 
-Here on my github you can find a number of my previous public projects from both school and leisure time. If you have any questions, you can reach me by email:
+Here on my github you can find a number of my previous public projects from both school and leisure time. If you have any questions, you can reach me by email:<br />
 
-Attarzad@usc.edu
+Attarzad@usc.edu <br />
 
-Hack On!
+Hack On! <br />
 
-Education: 
-USC Viterbi School of Engineering, '19
-Computer Science & Physics, B.S.
-Minor: Applied Computer Security
 
 <!--
 **Truative-USC/Truative-USC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
