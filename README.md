@@ -2,9 +2,11 @@
 
 My name is Aaron and I am a Sales Engineer at Signal Sciences!
 
-Here on my github you can find a number of my previous public projects from both school and leisure time. If you have any questions, you can reach me by email
+Here on my github you can find a number of my previous public projects from both school and leisure time. If you have any questions, you can reach me by email:
 
 Attarzad@usc.edu
+
+Hack On!
 
 <!--
 **Truative-USC/Truative-USC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
